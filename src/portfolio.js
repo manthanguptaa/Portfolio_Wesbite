@@ -142,6 +142,13 @@ const workExperiences = {
       date: "April 2020 - May 2020",
       desc: "GirlScript Education Outreach Program for Flutter noticed 200+ registrations where I taught Flutter to them via online webinars over a period of 2 weeks from scratch to intermediate level of expertise"
     },
+    {
+      role: "Mentor",
+      company: "Google Code-In",
+      companylogo: require("./assets/images/code_in.png"),
+      date: "Nov 2019 - Feb 2020",
+      desc: "Google Code-in was a contest that introduced pre-university students (age 13-17) to open source software development. As a mentor, my role was to help them contribute to open source and give constructive feedback to improve them as a developer and also explain to them the advantages of open-source"
+    },
   ]
 };
 
@@ -176,36 +183,66 @@ const bigProjects = {
 
 const achievementSection = {
 
-  title: "",
-  subtitle: "",
+  title: "Achievements",
+  subtitle: "Weird Flex But Okay",
 
   achivementsCards: [
-    // {
-    //   title: "Google Code-In Finalist",
-    //   subtitle: "First Pakistani to be selected as Google Code-in Finalist from 4000 students from 77 different countries.",
-    //   image: require("./assets/images/codeInLogo.webp"),
-    //   footerLink: [
-    //     { name: "Certification", url: "https://drive.google.com/file/d/0B7kazrtMwm5dYkVvNjdNWjNybWJrbndFSHpNY2NFV1p4YmU0/view?usp=sharing" },
-    //     { name: "Award Letter", url: "https://drive.google.com/file/d/0B7kazrtMwm5dekxBTW5hQkg2WXUyR3QzQmR0VERiLXlGRVdF/view?usp=sharing" },
-    //     { name: "Google Code-in Blog", url: "https://opensource.googleblog.com/2019/01/google-code-in-2018-winners.html" }
-    //   ]
-    // },
-    // {
-    //   title: "Google Assistant Action",
-    //   subtitle: "Developed a Google Assistant Action JavaScript Guru that is available on 2 Billion devices world wide.",
-    //   image: require("./assets/images/googleAssistantLogo.webp"),
-    //   footerLink: [{ name: "View Google Assistant Action", url: "https://assistant.google.com/services/a/uid/000000100ee688ee?hl=en" }]
-    // },
-
-    // {
-    //   title: "PWA Web App Developer",
-    //   subtitle: "Completed Certifcation from SMIT for PWA Web App Development",
-    //   image: require("./assets/images/pwaLogo.webp"),
-    //   footerLink: [
-    //     { name: "Certification", url: "" },
-    //     { name: "Final Project", url: "https://pakistan-olx-1.firebaseapp.com/" }
-    //   ]
-    // }
+    {
+      title: "Flutter",
+      subtitle: "Taught Flutter to 300+ students via online medium",
+      image: require("./assets/images/Flutter.png"),
+      footerLink: [
+        //{ name: "Certificate", url: "https://drive.google.com/file/d/13uielBEpmxSvsqpYlkaiLlnlPhohr-zc/view?usp=sharing" }
+      ]
+    },
+    {
+      title: "Mentor",
+      subtitle: "Mentored 1000+ students via various medium",
+      image: require("./assets/images/mentor.png"),
+      footerLink: [
+        //{ name: "Certificate", url: "https://drive.google.com/file/d/13uielBEpmxSvsqpYlkaiLlnlPhohr-zc/view?usp=sharing" }
+      ]
+    },
+    {
+      title: "Skillenza HackDay Delhi 2019 Winner",
+      subtitle: "Won Skillenza HackDay hackathon among 114 teams which was my first hackathon",
+      image: require("./assets/images/skillenza.png"),
+      footerLink: [
+        //{ name: "Certification", url: "https://drive.google.com/file/d/0B7kazrtMwm5dYkVvNjdNWjNybWJrbndFSHpNY2NFV1p4YmU0/view?usp=sharing" },
+        //{ name: "Award Letter", url: "https://drive.google.com/file/d/0B7kazrtMwm5dekxBTW5hQkg2WXUyR3QzQmR0VERiLXlGRVdF/view?usp=sharing" },
+        //{ name: "Google Code-in Blog", url: "https://opensource.googleblog.com/2019/01/google-code-in-2018-winners.html" }
+      ]
+    },
+    {
+      title: "Google Hash Code",
+      subtitle: "Secured a world rank of 1257 and 137 in India",
+      image: require("./assets/images/hash_code.png"),
+      footerLink: [{ name: "Certificate", url: "https://drive.google.com/file/d/13K_0RWW-ogVKn2RPKzcFQ7ojU3aWFryJ/view?usp=sharing" }]
+    },
+    {
+      title: "Hack The Mountains",
+      subtitle: "Won the Best Mentor Award",
+      image: require("./assets/images/hackthemountains.png"),
+      footerLink: [
+        //{ name: "Certificate", url: "https://drive.google.com/file/d/13uielBEpmxSvsqpYlkaiLlnlPhohr-zc/view?usp=sharing" }
+      ]
+    },
+    {
+      title: "Google Kickstart Round A",
+      subtitle: "Secured a world rank of 5569",
+      image: require("./assets/images/kickstart.png"),
+      footerLink: [
+        { name: "Certificate", url: "https://drive.google.com/file/d/1F68nLOXKj9qOs9dbPnhhANvdfjuRB4CO/view?usp=sharing" }
+      ]
+    },
+    {
+      title: "Google Code Jam",
+      subtitle: "Cleared the Qualification Round and moved to Round 1A",
+      image: require("./assets/images/code_jam.png"),
+      footerLink: [
+        { name: "Certificate", url: "https://drive.google.com/file/d/13uielBEpmxSvsqpYlkaiLlnlPhohr-zc/view?usp=sharing" }
+      ]
+    },
   ]
 };
 
