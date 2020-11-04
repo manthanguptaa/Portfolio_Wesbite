@@ -228,6 +228,14 @@ const achievementSection = {
       ]
     },
     {
+      title: "Judge",
+      subtitle: "Invited as a Judge to Innerve Data Hackathon 2020 to help choose winner",
+      image: require("./assets/images/innerve.jpg"),
+      footerLink: [
+        { name: "Event", url: "https://www.linkedin.com/feed/update/urn:li:activity:6725989372170170368/" }
+      ]
+    },
+    {
       title: "Google Kickstart Round A",
       subtitle: "Secured a world rank of 5569",
       image: require("./assets/images/kickstart.png"),
