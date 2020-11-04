@@ -108,7 +108,23 @@ const techStack = {
     {
       Stack: "JavaScript",
       progressPercentage: "50%"
-    }
+    },
+    {
+      Stack: "MySQL",
+      progressPercentage: "70%"
+    },
+    {
+      Stack: "Firebase",
+      progressPercentage: "70%"
+    },
+    {
+      Stack: "Machine Learning",
+      progressPercentage: "60%"
+    },
+    {
+      Stack: "Deep Learning",
+      progressPercentage: "60%"
+    },
   ]
 };
 
