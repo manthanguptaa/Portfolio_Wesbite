@@ -287,6 +287,11 @@ const blogSection = {
 
   blogs: [
     {
+      url: "https://medium.com/@manthangupta109/denoising-images-using-autoencoders-4a64499f10ba",
+      title: "Denoising Images Using Autoencoders",
+      description: "Learn about autoencoders and how to use them to denoise images"
+    },
+    {
       url: "https://medium.com/nerd-for-tech/learn-just-enough-dart-for-flutter-part-1-c8f3b20bd6d2",
       title: "Learn Just Enough Dart For Flutter: Part 1",
       description: "Learn the basics of Dart in the part 1 of 4 series"
@@ -311,11 +316,6 @@ const blogSection = {
       title: "Building a BMI app with Flutter",
       description: "Learn to build a basic BMI application using Flutter"
     },
-    {
-      url: "https://medium.com/@manthangupta109/codechef-april-long-challenge-solution-div-2-cc0b05c9cbfe",
-      title: "CodeChef April Long Challenge Solution (Div 2)",
-      description: "Solution of April Long Challenege explained in Layman Language"
-    }
   ]
 };
 
