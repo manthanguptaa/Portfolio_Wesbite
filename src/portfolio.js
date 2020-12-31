@@ -83,7 +83,7 @@ const educationInfo = {
       logo: require("./assets/images/bennettUniversity.png"),
       subHeader: "Bachelor of Technology in Computer Science",
       duration: "August 2018 - May 2022",
-      desc: "Current CGPA: 9.15/10",
+      desc: "Current CGPA: 9.17/10",
       descBullets: [
         // "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
         // "Lorem ipsum dolor sit amet, consectetur adipiscing elit"
