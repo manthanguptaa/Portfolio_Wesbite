@@ -10,7 +10,7 @@ const greeting = {
   username: "Manthan Gupta",
   title: "Hi all, I'm Manthan",
   subTitle: emoji("A passionate Software Developer 🚀 having an experience of building Mobile applications with Flutter."),
-  resumeLink: "https://drive.google.com/file/d/1uzfX-HBQJU196R4uLa8cxvTeoVOROjsT/view?usp=sharing"
+  resumeLink: "https://drive.google.com/file/d/1mDV_IJVf3oxn9W8TW54oyVr-lcpKbJ5x/view?usp=sharing"
 };
 
 // Your Social Media Link
