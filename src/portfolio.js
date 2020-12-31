@@ -244,6 +244,14 @@ const achievementSection = {
       ]
     },
     {
+      title: "Sanscript India",
+      subtitle: "Won the Top Contributor badge",
+      image:require("./assets/images/sanscript.jpg"),
+      footerLink:[
+        {name:"Certificate", url:"https://www.linkedin.com/posts/manthangupta109_opensource-flutter-flutterdev-activity-6742680914867863552-KaIN"}
+      ]
+    },
+    {
       title: "Judge",
       subtitle: "Invited as a Judge to Innerve Data Hackathon 2020 to help choose winner",
       image: require("./assets/images/innerve.jpg"),
